@@ -16,11 +16,11 @@
 
 ### Github Stats
 
-[![Kennethy GitHub Stats](https://github-readme-stats.vercel.app/api?username=kennethymov&show_icons=true&count_private=true)](https://github.com/kennethymov)
+[![Kennethy GitHub Stats](https://github-readme-stats.git-masterrstaa-rickstaa.vercel.app/api?username=kennethymov&show_icons=true&count_private=true)](https://github.com/kennethymov)
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kennethymov&repo=crud-pessoa-backend&show_owner=true)](https://github.com/Kennethymov/crud-pessoa-backend) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kennethymov&repo=project-store-manager&show_owner=true)](https://github.com/Kennethymov/project-store-manager) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kennethymov&repo=project-blogs-api&show_owner=true)](https://github.com/Kennethymov/project-blogs-api)
+[![ReadMe Card](https://github-readme-stats.git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Kennethymov&repo=crud-pessoa-backend&show_owner=true)](https://github.com/Kennethymov/crud-pessoa-backend) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kennethymov&repo=project-store-manager&show_owner=true)](https://github.com/Kennethymov/project-store-manager) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kennethymov&repo=project-blogs-api&show_owner=true)](https://github.com/Kennethymov/project-blogs-api)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
